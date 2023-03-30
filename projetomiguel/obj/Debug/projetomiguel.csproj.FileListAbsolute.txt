@@ -1,0 +1,14 @@
+C:\Users\migue\OneDrive\Área de Trabalho\poo\visualstudio\projetomiguel\bin\Debug\projetomiguel.exe.config
+C:\Users\migue\OneDrive\Área de Trabalho\poo\visualstudio\projetomiguel\bin\Debug\projetomiguel.exe
+C:\Users\migue\OneDrive\Área de Trabalho\poo\visualstudio\projetomiguel\bin\Debug\projetomiguel.pdb
+C:\Users\migue\OneDrive\Área de Trabalho\poo\visualstudio\projetomiguel\obj\Debug\projetomiguel.csproj.AssemblyReference.cache
+C:\Users\migue\OneDrive\Área de Trabalho\poo\visualstudio\projetomiguel\obj\Debug\projetomiguel.csproj.SuggestedBindingRedirects.cache
+C:\Users\migue\OneDrive\Área de Trabalho\poo\visualstudio\projetomiguel\obj\Debug\projetomiguel.frmmenu.resources
+C:\Users\migue\OneDrive\Área de Trabalho\poo\visualstudio\projetomiguel\obj\Debug\projetomiguel.frm2.resources
+C:\Users\migue\OneDrive\Área de Trabalho\poo\visualstudio\projetomiguel\obj\Debug\projetomiguel.Properties.Resources.resources
+C:\Users\migue\OneDrive\Área de Trabalho\poo\visualstudio\projetomiguel\obj\Debug\projetomiguel.csproj.GenerateResource.cache
+C:\Users\migue\OneDrive\Área de Trabalho\poo\visualstudio\projetomiguel\obj\Debug\projetomiguel.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Área de Trabalho\poo\visualstudio\projetomiguel\obj\Debug\projetomiguel.exe
+C:\Users\migue\OneDrive\Área de Trabalho\poo\visualstudio\projetomiguel\obj\Debug\projetomiguel.pdb
+C:\Users\migue\OneDrive\Área de Trabalho\poo\visualstudio\projetomiguel\obj\Debug\projetomiguel.frm3.resources
+C:\Users\migue\OneDrive\Área de Trabalho\poo\visualstudio\projetomiguel\obj\Debug\projetomiguel.frm4.resources
